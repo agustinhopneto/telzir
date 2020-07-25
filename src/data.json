@@ -1,0 +1,48 @@
+{
+  "values": [
+    {
+      "origin": "011",
+      "destination": "016",
+      "value": 1.90
+    },
+    {
+      "origin": "016",
+      "destination": "011",
+      "value": 2.90
+    },
+    {
+      "origin": "011",
+      "destination": "017",
+      "value": 1.70
+    },
+    {
+      "origin": "017",
+      "destination": "011",
+      "value": 2.70
+    },
+    {
+      "origin": "011",
+      "destination": "018",
+      "value": 0.90
+    },
+    {
+      "origin": "018",
+      "destination": "011",
+      "value": 1.90
+    }
+  ],
+  "plans": [
+    {
+      "name": "FaleMais 30",
+      "minutes": 30
+    },
+    {
+      "name": "FaleMais 60",
+      "minutes": 60
+    },
+    {
+      "name": "FaleMais 120",
+      "minutes": 120
+    }
+  ]
+}
