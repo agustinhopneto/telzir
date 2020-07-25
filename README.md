@@ -1,15 +1,13 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img width=100% height=auto src="./assets/githubbanner.png" alt="Telzir"></a>
+ <img width=100% height=auto src="./assets/githubbanner.png" alt="Telzir">
 </p>
 
 <h3 align="center">Telzir</h3>
 
 ---
 
-<p align="center"> Projeto desenvolvido para o desafio da LOLDESIGN
-    <br>
-</p>
+Projeto desenvolvido para o desafio da [LOLDESIGN](https://www.loldesign.com.br/).
+
 
 ## 📝 Conteúdo
 
